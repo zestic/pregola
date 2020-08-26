@@ -1,2 +1,2 @@
 # pregola
-Migrations for OrientDB graph db
+Migrations for ArangoDB graph db
